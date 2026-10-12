@@ -1,0 +1,7 @@
+# Generated objects, disk images, and QEMU screenshots
+build/
+dist/
+
+# Editor/OS noise
+*.swp
+.DS_Store
